@@ -1,5 +1,5 @@
 module.exports = {
-  description: '',
+  description: 'Generates a route and registers it with the router',
 
   availableOptions: [
     {
